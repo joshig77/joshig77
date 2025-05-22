@@ -1,1 +1,1 @@
-@mer vsbsvsb: loadstring(game:HttpGet("https://pastefy.app/S1q38LKN/raw"))()
+@PAX'S SCRIPT: loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowGardenScript/AutoGetCandyBlossom/refs/heads/main/AutoFindCandyBlossomServer"))()
